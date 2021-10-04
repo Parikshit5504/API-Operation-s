@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 4px solid black;
+    padding: 100px;
+    margin-top: 50px;
+    background-color: cornflowerblue;
+}
+
+.form {
+    border: 4px solid black;
+    margin-top: 50px;
+    height: 377px
+}
